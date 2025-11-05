@@ -5,6 +5,7 @@ import joblib
 import pandas as pd
 import numpy as np
 import warnings
+import os
 
 warnings.filterwarnings('ignore')
 
@@ -18,11 +19,24 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# 절대 경로 설정
+current_file = os.path.abspath(__file__)
+current_dir = os.path.dirname(current_file)
+project_root = os.path.dirname(current_dir)
+
+model_path = os.path.join(project_root, 'model', 'best_model.pkl')
+scaler_path = os.path.join(project_root, 'model', 'scaler.pkl')
+data_path = os.path.join(project_root, 'data', 'premier_league_features.csv')
+
+print(f"Project root: {project_root}")
+print(f"Model path: {model_path}")
+print(f"Data path: {data_path}")
+
 print("모델 로드 중...")
 try:
-    model = joblib.load('../model/best_model.pkl')
-    scaler = joblib.load('../model/scaler.pkl')
-    features_df = pd.read_csv('../data/premier_league_features.csv')
+    model = joblib.load(model_path)
+    scaler = joblib.load(scaler_path)
+    features_df = pd.read_csv(data_path)
     print("✓ 모델 로드 완료")
 except Exception as e:
     print(f"✗ 모델 로드 실패: {e}")
