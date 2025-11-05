@@ -1,0 +1,101 @@
+h_win_rate,h_goals_avg,h_conceded_avg,h_home_win_rate,h_home_goals_avg,a_win_rate,a_goals_avg,a_conceded_avg,a_away_win_rate,a_away_goals_avg,win_rate_diff,goals_avg_diff,homeTeam,awayTeam,homeGoals,awayGoals,result,matchday,target
+0.6,1.8,1.4,0.8,2.0,0.5,1.7,1.4,0.2,1.8,0.09999999999999998,0.10000000000000009,Liverpool FC,AFC Bournemouth,4.0,2.0,HOME_TEAM,1,1
+0.4,0.9,1.0,0.6,1.2,0.3,1.0,1.1,0.0,0.4,0.10000000000000003,-0.09999999999999998,Aston Villa FC,Newcastle United FC,0.0,0.0,DRAW,1,0
+0.4,1.7,1.5,0.6,2.0,0.3,1.2,1.4,0.0,0.8,0.10000000000000003,0.5,Brighton & Hove Albion FC,Fulham FC,1.0,1.0,DRAW,1,0
+0.5,1.2,0.8,0.6,1.8,0.2,1.0,2.1,0.2,1.0,0.3,0.19999999999999996,Sunderland AFC,West Ham United FC,3.0,0.0,HOME_TEAM,1,1
+0.5,1.7,0.8,0.2,1.0,0.3,1.2,1.9,0.2,1.4,0.2,0.5,Tottenham Hotspur FC,Burnley FC,3.0,0.0,HOME_TEAM,1,1
+0.0,0.7,2.2,0.0,1.2,0.6,2.0,0.8,0.4,1.4,-0.6,-1.3,Wolverhampton Wanderers FC,Manchester City FC,0.0,4.0,AWAY_TEAM,1,-1
+0.1,0.7,1.9,0.2,1.0,0.4,1.4,1.6,0.2,1.0,-0.30000000000000004,-0.7,Nottingham Forest FC,Brentford FC,3.0,1.0,HOME_TEAM,1,1
+0.5,1.8,1.1,0.4,1.2,0.4,1.4,0.9,0.4,1.2,0.09999999999999998,0.40000000000000013,Chelsea FC,Crystal Palace FC,0.0,0.0,DRAW,1,0
+0.5,1.7,1.6,0.8,2.2,0.8,1.8,0.3,0.8,1.2,-0.30000000000000004,-0.10000000000000009,Manchester United FC,Arsenal FC,0.0,1.0,AWAY_TEAM,1,-1
+0.3,0.9,1.7,0.4,1.2,0.3,1.0,1.3,0.2,1.0,0.0,-0.09999999999999998,Leeds United FC,Everton FC,1.0,0.0,HOME_TEAM,1,1
+0.2,1.0,2.1,0.2,1.0,0.5,1.8,1.1,0.6,2.4,-0.3,-0.8,West Ham United FC,Chelsea FC,1.0,5.0,AWAY_TEAM,2,-1
+0.6,2.0,0.8,0.8,2.6,0.5,1.7,0.8,0.8,2.4,0.09999999999999998,0.30000000000000004,Manchester City FC,Tottenham Hotspur FC,0.0,2.0,AWAY_TEAM,2,-1
+0.5,1.7,1.4,0.8,1.6,0.0,0.7,2.2,0.0,0.2,0.5,1.0,AFC Bournemouth,Wolverhampton Wanderers FC,1.0,0.0,HOME_TEAM,2,1
+0.4,1.4,1.6,0.6,1.8,0.4,0.9,1.0,0.2,0.6,0.0,0.4999999999999999,Brentford FC,Aston Villa FC,1.0,0.0,HOME_TEAM,2,1
+0.3,1.2,1.9,0.4,1.0,0.5,1.2,0.8,0.4,0.6,-0.2,0.0,Burnley FC,Sunderland AFC,2.0,0.0,HOME_TEAM,2,1
+0.8,1.8,0.3,0.8,2.4,0.3,0.9,1.7,0.2,0.6,0.5,0.9,Arsenal FC,Leeds United FC,5.0,0.0,HOME_TEAM,2,1
+0.4,1.4,0.9,0.4,1.6,0.1,0.7,1.9,0.0,0.4,0.30000000000000004,0.7,Crystal Palace FC,Nottingham Forest FC,1.0,1.0,DRAW,2,0
+0.3,1.0,1.3,0.4,1.0,0.4,1.7,1.5,0.2,1.4,-0.10000000000000003,-0.7,Everton FC,Brighton & Hove Albion FC,2.0,0.0,HOME_TEAM,2,1
+0.3,1.2,1.4,0.6,1.6,0.5,1.7,1.6,0.2,1.2,-0.2,-0.5,Fulham FC,Manchester United FC,1.0,1.0,DRAW,2,0
+0.3,1.0,1.1,0.6,1.6,0.6,1.8,1.4,0.4,1.6,-0.3,-0.8,Newcastle United FC,Liverpool FC,2.0,3.0,AWAY_TEAM,2,-1
+0.5,1.8,1.1,0.4,1.2,0.3,1.2,1.4,0.0,0.8,0.2,0.6000000000000001,Chelsea FC,Fulham FC,2.0,0.0,HOME_TEAM,3,1
+0.5,1.2,0.8,0.6,1.8,0.4,1.4,1.6,0.2,1.0,0.09999999999999998,-0.19999999999999996,Sunderland AFC,Brentford FC,2.0,1.0,HOME_TEAM,3,1
+0.5,1.7,1.6,0.8,2.2,0.3,1.2,1.9,0.2,1.4,0.2,0.5,Manchester United FC,Burnley FC,3.0,2.0,HOME_TEAM,3,1
+0.5,1.7,0.8,0.2,1.0,0.5,1.7,1.4,0.2,1.8,0.0,0.0,Tottenham Hotspur FC,AFC Bournemouth,0.0,1.0,AWAY_TEAM,3,-1
+0.0,0.7,2.2,0.0,1.2,0.3,1.0,1.3,0.2,1.0,-0.3,-0.30000000000000004,Wolverhampton Wanderers FC,Everton FC,2.0,3.0,AWAY_TEAM,3,-1
+0.3,0.9,1.7,0.4,1.2,0.3,1.0,1.1,0.0,0.4,0.0,-0.09999999999999998,Leeds United FC,Newcastle United FC,0.0,0.0,DRAW,3,0
+0.4,1.7,1.5,0.6,2.0,0.6,2.0,0.8,0.4,1.4,-0.19999999999999996,-0.30000000000000004,Brighton & Hove Albion FC,Manchester City FC,2.0,1.0,HOME_TEAM,3,1
+0.1,0.7,1.9,0.2,1.0,0.2,1.0,2.1,0.2,1.0,-0.1,-0.30000000000000004,Nottingham Forest FC,West Ham United FC,0.0,3.0,AWAY_TEAM,3,-1
+0.6,1.8,1.4,0.8,2.0,0.8,1.8,0.3,0.8,1.2,-0.20000000000000007,0.0,Liverpool FC,Arsenal FC,1.0,0.0,HOME_TEAM,3,1
+0.4,0.9,1.0,0.6,1.2,0.4,1.4,0.9,0.4,1.2,0.0,-0.4999999999999999,Aston Villa FC,Crystal Palace FC,0.0,3.0,AWAY_TEAM,3,-1
+0.8,1.8,0.3,0.8,2.4,0.1,0.7,1.9,0.0,0.4,0.7000000000000001,1.1,Arsenal FC,Nottingham Forest FC,3.0,0.0,HOME_TEAM,4,1
+0.5,1.7,1.4,0.8,1.6,0.4,1.7,1.5,0.2,1.4,0.09999999999999998,0.0,AFC Bournemouth,Brighton & Hove Albion FC,2.0,1.0,HOME_TEAM,4,1
+0.4,1.4,0.9,0.4,1.6,0.5,1.2,0.8,0.4,0.6,-0.09999999999999998,0.19999999999999996,Crystal Palace FC,Sunderland AFC,0.0,0.0,DRAW,4,0
+0.3,1.0,1.3,0.4,1.0,0.4,0.9,1.0,0.2,0.6,-0.10000000000000003,0.09999999999999998,Everton FC,Aston Villa FC,0.0,0.0,DRAW,4,0
+0.3,1.2,1.4,0.6,1.6,0.3,0.9,1.7,0.2,0.6,0.0,0.29999999999999993,Fulham FC,Leeds United FC,1.0,0.0,HOME_TEAM,4,1
+0.3,1.0,1.1,0.6,1.6,0.0,0.7,2.2,0.0,0.2,0.3,0.30000000000000004,Newcastle United FC,Wolverhampton Wanderers FC,1.0,0.0,HOME_TEAM,4,1
+0.2,1.0,2.1,0.2,1.0,0.5,1.7,0.8,0.8,2.4,-0.3,-0.7,West Ham United FC,Tottenham Hotspur FC,0.0,3.0,AWAY_TEAM,4,-1
+0.4,1.4,1.6,0.6,1.8,0.5,1.8,1.1,0.6,2.4,-0.09999999999999998,-0.40000000000000013,Brentford FC,Chelsea FC,2.0,2.0,DRAW,4,0
+0.3,1.2,1.9,0.4,1.0,0.6,1.8,1.4,0.4,1.6,-0.3,-0.6000000000000001,Burnley FC,Liverpool FC,0.0,1.0,AWAY_TEAM,4,-1
+0.6,2.0,0.8,0.8,2.6,0.5,1.7,1.6,0.2,1.2,0.09999999999999998,0.30000000000000004,Manchester City FC,Manchester United FC,3.0,0.0,HOME_TEAM,4,1
+0.6,1.8,1.4,0.8,2.0,0.3,1.0,1.3,0.2,1.0,0.3,0.8,Liverpool FC,Everton FC,2.0,1.0,HOME_TEAM,5,1
+0.4,1.7,1.5,0.6,2.0,0.5,1.7,0.8,0.8,2.4,-0.09999999999999998,0.0,Brighton & Hove Albion FC,Tottenham Hotspur FC,2.0,2.0,DRAW,5,0
+0.3,1.2,1.9,0.4,1.0,0.1,0.7,1.9,0.0,0.4,0.19999999999999998,0.5,Burnley FC,Nottingham Forest FC,1.0,1.0,DRAW,5,0
+0.2,1.0,2.1,0.2,1.0,0.4,1.4,0.9,0.4,1.2,-0.2,-0.3999999999999999,West Ham United FC,Crystal Palace FC,1.0,2.0,AWAY_TEAM,5,-1
+0.0,0.7,2.2,0.0,1.2,0.3,0.9,1.7,0.2,0.6,-0.3,-0.20000000000000007,Wolverhampton Wanderers FC,Leeds United FC,1.0,3.0,AWAY_TEAM,5,-1
+0.5,1.7,1.6,0.8,2.2,0.5,1.8,1.1,0.6,2.4,0.0,-0.10000000000000009,Manchester United FC,Chelsea FC,2.0,1.0,HOME_TEAM,5,1
+0.3,1.2,1.4,0.6,1.6,0.4,1.4,1.6,0.2,1.0,-0.10000000000000003,-0.19999999999999996,Fulham FC,Brentford FC,3.0,1.0,HOME_TEAM,5,1
+0.5,1.7,1.4,0.8,1.6,0.3,1.0,1.1,0.0,0.4,0.2,0.7,AFC Bournemouth,Newcastle United FC,0.0,0.0,DRAW,5,0
+0.5,1.2,0.8,0.6,1.8,0.4,0.9,1.0,0.2,0.6,0.09999999999999998,0.29999999999999993,Sunderland AFC,Aston Villa FC,1.0,1.0,DRAW,5,0
+0.8,1.8,0.3,0.8,2.4,0.6,2.0,0.8,0.4,1.4,0.20000000000000007,-0.19999999999999996,Arsenal FC,Manchester City FC,1.0,1.0,DRAW,5,0
+0.4,1.4,1.6,0.6,1.8,0.5,1.7,1.6,0.2,1.2,-0.09999999999999998,-0.30000000000000004,Brentford FC,Manchester United FC,3.0,1.0,HOME_TEAM,6,1
+0.4,1.4,0.9,0.4,1.6,0.6,1.8,1.4,0.4,1.6,-0.19999999999999996,-0.40000000000000013,Crystal Palace FC,Liverpool FC,2.0,1.0,HOME_TEAM,6,1
+0.5,1.8,1.1,0.4,1.2,0.4,1.7,1.5,0.2,1.4,0.09999999999999998,0.10000000000000009,Chelsea FC,Brighton & Hove Albion FC,1.0,3.0,AWAY_TEAM,6,-1
+0.3,0.9,1.7,0.4,1.2,0.5,1.7,1.4,0.2,1.8,-0.2,-0.7999999999999999,Leeds United FC,AFC Bournemouth,2.0,2.0,DRAW,6,0
+0.6,2.0,0.8,0.8,2.6,0.3,1.2,1.9,0.2,1.4,0.3,0.8,Manchester City FC,Burnley FC,5.0,1.0,HOME_TEAM,6,1
+0.1,0.7,1.9,0.2,1.0,0.5,1.2,0.8,0.4,0.6,-0.4,-0.5,Nottingham Forest FC,Sunderland AFC,0.0,1.0,AWAY_TEAM,6,-1
+0.5,1.7,0.8,0.2,1.0,0.0,0.7,2.2,0.0,0.2,0.5,1.0,Tottenham Hotspur FC,Wolverhampton Wanderers FC,1.0,1.0,DRAW,6,0
+0.4,0.9,1.0,0.6,1.2,0.3,1.2,1.4,0.0,0.8,0.10000000000000003,-0.29999999999999993,Aston Villa FC,Fulham FC,3.0,1.0,HOME_TEAM,6,1
+0.3,1.0,1.1,0.6,1.6,0.8,1.8,0.3,0.8,1.2,-0.5,-0.8,Newcastle United FC,Arsenal FC,1.0,2.0,AWAY_TEAM,6,-1
+0.3,1.0,1.3,0.4,1.0,0.2,1.0,2.1,0.2,1.0,0.09999999999999998,0.0,Everton FC,West Ham United FC,1.0,1.0,DRAW,6,0
+0.5,1.7,1.4,0.8,1.6,0.3,1.2,1.4,0.0,0.8,0.2,0.5,AFC Bournemouth,Fulham FC,3.0,1.0,HOME_TEAM,7,1
+0.3,0.9,1.7,0.4,1.2,0.5,1.7,0.8,0.8,2.4,-0.2,-0.7999999999999999,Leeds United FC,Tottenham Hotspur FC,1.0,2.0,AWAY_TEAM,7,-1
+0.8,1.8,0.3,0.8,2.4,0.2,1.0,2.1,0.2,1.0,0.6000000000000001,0.8,Arsenal FC,West Ham United FC,2.0,0.0,HOME_TEAM,7,1
+0.5,1.7,1.6,0.8,2.2,0.5,1.2,0.8,0.4,0.6,0.0,0.5,Manchester United FC,Sunderland AFC,2.0,0.0,HOME_TEAM,7,1
+0.5,1.8,1.1,0.4,1.2,0.6,1.8,1.4,0.4,1.6,-0.09999999999999998,0.0,Chelsea FC,Liverpool FC,2.0,1.0,HOME_TEAM,7,1
+0.4,0.9,1.0,0.6,1.2,0.3,1.2,1.9,0.2,1.4,0.10000000000000003,-0.29999999999999993,Aston Villa FC,Burnley FC,2.0,1.0,HOME_TEAM,7,1
+0.3,1.0,1.3,0.4,1.0,0.4,1.4,0.9,0.4,1.2,-0.10000000000000003,-0.3999999999999999,Everton FC,Crystal Palace FC,2.0,1.0,HOME_TEAM,7,1
+0.3,1.0,1.1,0.6,1.6,0.1,0.7,1.9,0.0,0.4,0.19999999999999998,0.30000000000000004,Newcastle United FC,Nottingham Forest FC,2.0,0.0,HOME_TEAM,7,1
+0.0,0.7,2.2,0.0,1.2,0.4,1.7,1.5,0.2,1.4,-0.4,-1.0,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,1.0,1.0,DRAW,7,0
+0.4,1.4,1.6,0.6,1.8,0.6,2.0,0.8,0.4,1.4,-0.19999999999999996,-0.6000000000000001,Brentford FC,Manchester City FC,0.0,1.0,AWAY_TEAM,7,-1
+0.1,0.7,1.9,0.2,1.0,0.5,1.8,1.1,0.6,2.4,-0.4,-1.1,Nottingham Forest FC,Chelsea FC,0.0,3.0,AWAY_TEAM,8,-1
+0.4,1.7,1.5,0.6,2.0,0.3,1.0,1.1,0.0,0.4,0.10000000000000003,0.7,Brighton & Hove Albion FC,Newcastle United FC,2.0,1.0,HOME_TEAM,8,1
+0.4,1.4,0.9,0.4,1.6,0.5,1.7,1.4,0.2,1.8,-0.09999999999999998,-0.30000000000000004,Crystal Palace FC,AFC Bournemouth,3.0,3.0,DRAW,8,0
+0.3,1.2,1.9,0.4,1.0,0.3,0.9,1.7,0.2,0.6,0.0,0.29999999999999993,Burnley FC,Leeds United FC,2.0,0.0,HOME_TEAM,8,1
+0.6,2.0,0.8,0.8,2.6,0.3,1.0,1.3,0.2,1.0,0.3,1.0,Manchester City FC,Everton FC,2.0,0.0,HOME_TEAM,8,1
+0.5,1.2,0.8,0.6,1.8,0.0,0.7,2.2,0.0,0.2,0.5,0.5,Sunderland AFC,Wolverhampton Wanderers FC,2.0,0.0,HOME_TEAM,8,1
+0.3,1.2,1.4,0.6,1.6,0.8,1.8,0.3,0.8,1.2,-0.5,-0.6000000000000001,Fulham FC,Arsenal FC,0.0,1.0,AWAY_TEAM,8,-1
+0.5,1.7,0.8,0.2,1.0,0.4,0.9,1.0,0.2,0.6,0.09999999999999998,0.7999999999999999,Tottenham Hotspur FC,Aston Villa FC,1.0,2.0,AWAY_TEAM,8,-1
+0.6,1.8,1.4,0.8,2.0,0.5,1.7,1.6,0.2,1.2,0.09999999999999998,0.10000000000000009,Liverpool FC,Manchester United FC,1.0,2.0,AWAY_TEAM,8,-1
+0.2,1.0,2.1,0.2,1.0,0.4,1.4,1.6,0.2,1.0,-0.2,-0.3999999999999999,West Ham United FC,Brentford FC,0.0,2.0,AWAY_TEAM,8,-1
+0.3,0.9,1.7,0.4,1.2,0.2,1.0,2.1,0.2,1.0,0.09999999999999998,-0.09999999999999998,Leeds United FC,West Ham United FC,2.0,1.0,HOME_TEAM,9,1
+0.5,1.8,1.1,0.4,1.2,0.5,1.2,0.8,0.4,0.6,0.0,0.6000000000000001,Chelsea FC,Sunderland AFC,1.0,2.0,AWAY_TEAM,9,-1
+0.3,1.0,1.1,0.6,1.6,0.3,1.2,1.4,0.0,0.8,0.0,-0.19999999999999996,Newcastle United FC,Fulham FC,2.0,1.0,HOME_TEAM,9,1
+0.5,1.7,1.6,0.8,2.2,0.4,1.7,1.5,0.2,1.4,0.09999999999999998,0.0,Manchester United FC,Brighton & Hove Albion FC,4.0,2.0,HOME_TEAM,9,1
+0.4,1.4,1.6,0.6,1.8,0.6,1.8,1.4,0.4,1.6,-0.19999999999999996,-0.40000000000000013,Brentford FC,Liverpool FC,3.0,2.0,HOME_TEAM,9,1
+0.5,1.7,1.4,0.8,1.6,0.1,0.7,1.9,0.0,0.4,0.4,1.0,AFC Bournemouth,Nottingham Forest FC,2.0,0.0,HOME_TEAM,9,1
+0.4,0.9,1.0,0.6,1.2,0.6,2.0,0.8,0.4,1.4,-0.19999999999999996,-1.1,Aston Villa FC,Manchester City FC,1.0,0.0,HOME_TEAM,9,1
+0.8,1.8,0.3,0.8,2.4,0.4,1.4,0.9,0.4,1.2,0.4,0.40000000000000013,Arsenal FC,Crystal Palace FC,1.0,0.0,HOME_TEAM,9,1
+0.0,0.7,2.2,0.0,1.2,0.3,1.2,1.9,0.2,1.4,-0.3,-0.5,Wolverhampton Wanderers FC,Burnley FC,2.0,3.0,AWAY_TEAM,9,-1
+0.3,1.0,1.3,0.4,1.0,0.5,1.7,0.8,0.8,2.4,-0.2,-0.7,Everton FC,Tottenham Hotspur FC,0.0,3.0,AWAY_TEAM,9,-1
+0.4,1.7,1.5,0.6,2.0,0.3,0.9,1.7,0.2,0.6,0.10000000000000003,0.7999999999999999,Brighton & Hove Albion FC,Leeds United FC,3.0,0.0,HOME_TEAM,10,1
+0.4,1.4,0.9,0.4,1.6,0.4,1.4,1.6,0.2,1.0,0.0,0.0,Crystal Palace FC,Brentford FC,2.0,0.0,HOME_TEAM,10,1
+0.3,1.2,1.9,0.4,1.0,0.8,1.8,0.3,0.8,1.2,-0.5,-0.6000000000000001,Burnley FC,Arsenal FC,0.0,2.0,AWAY_TEAM,10,-1
+0.3,1.2,1.4,0.6,1.6,0.0,0.7,2.2,0.0,0.2,0.3,0.5,Fulham FC,Wolverhampton Wanderers FC,3.0,0.0,HOME_TEAM,10,1
+0.1,0.7,1.9,0.2,1.0,0.5,1.7,1.6,0.2,1.2,-0.4,-1.0,Nottingham Forest FC,Manchester United FC,2.0,2.0,DRAW,10,0
+0.5,1.7,0.8,0.2,1.0,0.5,1.8,1.1,0.6,2.4,0.0,-0.10000000000000009,Tottenham Hotspur FC,Chelsea FC,0.0,1.0,AWAY_TEAM,10,-1
+0.6,1.8,1.4,0.8,2.0,0.4,0.9,1.0,0.2,0.6,0.19999999999999996,0.9,Liverpool FC,Aston Villa FC,2.0,0.0,HOME_TEAM,10,1
+0.2,1.0,2.1,0.2,1.0,0.3,1.0,1.1,0.0,0.4,-0.09999999999999998,0.0,West Ham United FC,Newcastle United FC,3.0,1.0,HOME_TEAM,10,1
+0.6,2.0,0.8,0.8,2.6,0.5,1.7,1.4,0.2,1.8,0.09999999999999998,0.30000000000000004,Manchester City FC,AFC Bournemouth,3.0,1.0,HOME_TEAM,10,1
+0.5,1.2,0.8,0.6,1.8,0.3,1.0,1.3,0.2,1.0,0.2,0.19999999999999996,Sunderland AFC,Everton FC,1.0,1.0,DRAW,10,0
